@@ -1,0 +1,15 @@
+{
+  "name": "image-compressing",
+  "version": "1.0.0",
+  "description": "Algoritmo para compressão de imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Preis",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.10",
+    "ppm": "^0.0.0"
+  }
+}
