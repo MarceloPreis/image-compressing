@@ -1,6 +1,7 @@
 # image-compressing
 
-Intruções para correção: 
+Intruções para correção:
+
 As imagens originais estão na pasta ./images 
 
 As imagens comprimidas estão na pasta ./compressed
